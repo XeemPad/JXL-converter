@@ -8,5 +8,5 @@ I probably should elaborate more, but not now.
 Just call the script 
 
 ```bash
-./jxlconvert.sh"
+./jxlconvert.sh
 ```
